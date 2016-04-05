@@ -17,6 +17,15 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Visual Studio
+*.dat
+*.sln
+*.njsproj
+obj
+Properties
+.vs
+
+
 # =========================
 # Operating System Files
 # =========================
@@ -38,6 +47,7 @@ $RECYCLE.BIN/
 .TemporaryItems
 .Trashes
 .VolumeIcon.icns
+
 
 # Directories potentially created on remote AFP share
 .AppleDB
